@@ -1,4 +1,4 @@
 # Add-Product-Picture-to-Orderlist
-WordPress Snippet 
+WooCommerce Snippet
 
 Add Product Picture to Orderlist for WooCommerce
